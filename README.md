@@ -11,3 +11,5 @@
 - 📞 44999709968
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=milenamendes17&show_icons=true&theme=gotham)
+</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milenamendes17&layout=compact=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)

@@ -12,5 +12,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=milenamendes17&show_icons=true&theme=gotham)
 </a>
- [ ](https://github-readme-stats.vercel.app/api/top-langs/?username=milenamendes17&layout=compact&langs_count=7&theme=gotham)
-<img height="180em" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=milenamendes17&amp;layout=compact&amp;langs_count=7&amp;theme=dracula" style="max-width:100%;">
+<div>
+ <a href="https://github.com/milenamendes17">
+ <src="https://github-readme-stats.vercel.app/api/top-langs/?username=milenamendes17&layout=compact)](https://github.com/anuraghazra/github-readme-stats"/>
+  </div>

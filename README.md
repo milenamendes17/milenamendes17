@@ -12,4 +12,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=milenamendes17&show_icons=true&theme=gotham)
 </a> 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milenamendes17&layout=compactgotham)](https://github.com/milenamendes17/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milenamendes17&layout=compact)](https://github.com/milenamendes17/github-readme-stats)

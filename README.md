@@ -1,10 +1,10 @@
 - 👋 olá, meu nome é Milena Mendes 
-- tenho 18 anos, e muita vontade de aprender
+- tenho 19 anos, e muita vontade de aprender
 - 💻 atualmente tenho o básico em programação, HTML, CSS e Python
-- 💭 estou aprendendo JS, basico de arduino, intermediário HTML e css
-- 👩‍🎓 pretendo me formar em alguma área da IA 
-- 📨 CONTATO: milenasmr1704@gmail.com 
-- 📞 44999709968
+- 💭 estou aprendendo JS, C++ e Python.
+- 👩‍🎓 Faço graduação de Engenharia de Software 
+- 📨 CONTATO: milenasanmero@gmail.com 
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=milenamendes17&show_icons=true&theme=gotham)
 </a> 

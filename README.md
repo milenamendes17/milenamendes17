@@ -2,7 +2,7 @@
 - tenho 19 anos, e muita vontade de aprender
 - 💻 atualmente tenho o básico em programação, HTML, CSS e Python
 - 💭 estou aprendendo JS, C++ e Python.
-- 👩‍🎓 Faço graduação de Engenharia de Software 
+- 👩‍🎓 Faço graduação de Engenharia Elétrica 
 - 📨 CONTATO: milenasanmero@gmail.com 
 
 
